@@ -1,4 +1,10 @@
 package ex06;
+
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Nyles Symonette
+ */
+
 import java.util.*;
 import java.lang.*;
 
